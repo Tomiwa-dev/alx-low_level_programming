@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*prints different libraries
-* Returns 0
+* main - main block
+* Return: 0
 */
 int main(void)
 {
