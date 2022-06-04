@@ -17,10 +17,10 @@ int main(void)
 	}
 
 	lower = 'A';
-	while (upper <= 'Z')
+	while (lower <= 'Z')
 	{
-		putchar(upper);
-		upper++;
+		putchar(lower);
+		lower++;
 	}
 
 	putchar('\n');
