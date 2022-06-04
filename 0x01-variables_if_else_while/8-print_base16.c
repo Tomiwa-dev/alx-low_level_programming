@@ -15,11 +15,11 @@ int main(void)
 		alp++;
 	}
 
-	char alpp = 'a';
+	alp = 'a';
 
-	while (alpp <= 'f')
+	while (alp <= 'f')
 	{
-		putchar(alpp);
+		putchar(alp);
 		alpp++;
 	}
 
