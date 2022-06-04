@@ -20,7 +20,7 @@ int main(void)
 	while (alp <= 'f')
 	{
 		putchar(alp);
-		alpp++;
+		alp++;
 	}
 
 	putchar('\n');
