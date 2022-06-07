@@ -1,9 +1,11 @@
 #include "main.h"
 /**
- * _isalpha - checks for alphabetic character
- * @c: character 
- * Return 1 or o
+ * _isalpha - check for alphabet character
+ * @c : charcter to chec
+ * Description : go
+ * Return : 0 or 1
  */
+
 int _isalpha(int c)
 {
 	return (c >= 65 && c <= 122);
