@@ -1,15 +1,15 @@
-#include <main.h>
+#include "main.h"
 /**
  * main -main block.
  * Return: 0
  */
 int main(void)
 {
-	char c[9] = "_putchar";
+	char c[8] = "_putchar";
 
 	int i = 0;
 
-	while (i < 9)
+	while (i < 8)
 	{
 		_putchar(c[i]);
 		i++;
