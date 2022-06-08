@@ -1,7 +1,7 @@
 #include "main.c"
 
 /**
- * print_sign - prints the sign of a number
+ * print_sign - print_sign block
  * Description : does
  * @n : character
  * Returns: 1 or 0
