@@ -1,10 +1,10 @@
-#include "main.c"
+#include "main.h"
 
 /**
  * print_sign - print_sign block
  * Description : does
  * @n : character
- * Returns: 1 or 0
+ * Return: 0
  */
 
 int print_sign(int n)

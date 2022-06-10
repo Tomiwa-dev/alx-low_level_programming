@@ -3,7 +3,7 @@
  * _isalpha - check for alphabet character
  * @c : charcter to chec
  * Description : go
- * Return : 0 or 1
+ * Return: 0
  */
 
 int _isalpha(int c)

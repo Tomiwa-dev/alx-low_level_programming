@@ -2,7 +2,7 @@
 /**
  * jack_bauer - jack_bauer block
  * Description: prints every minute of the day of Jack Bauer
- * Returns : void
+ * Return: void
  */
 void jack_bauer(void)
 {

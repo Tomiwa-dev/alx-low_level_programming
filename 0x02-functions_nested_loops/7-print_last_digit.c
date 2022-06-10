@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_last_digit - return last digit
- * @n : number to check 
- * Return : 0 or 1
+ * print_last_digit - last digit
+ * @n : number to check
+ * Return: 0
  */
 
 int print_last_digit(int n)
@@ -16,4 +16,3 @@ int print_last_digit(int n)
 	_putchar(nv + '0');
 	return (nv);
 }
-
