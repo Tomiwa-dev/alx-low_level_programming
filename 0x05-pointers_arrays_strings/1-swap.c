@@ -5,7 +5,7 @@
  * @b: variable to pass into the function
  * Return: 0
  */
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
 	int ac;
 	int bc;
