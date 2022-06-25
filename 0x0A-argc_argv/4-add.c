@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#incluse <ctype.h>
 /**
  * main - adds positive number
  * @argv: argument vector
