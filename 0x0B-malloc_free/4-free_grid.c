@@ -1,5 +1,5 @@
 #include "main.h"
-#include <atdlib.h>
+#include <stdlib.h>
 /**
  * free_grid - a function that free a 2-d grid
  * @grid: grid
